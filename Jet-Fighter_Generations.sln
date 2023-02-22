@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "jet-fighter_generations", "jet-fighter_generations.esproj", "{407C46B9-8FD4-4A64-87CB-F346C0E5828C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407C46B9-8FD4-4A64-87CB-F346C0E5828C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE465CD-B3DB-4606-AC63-C5429A0553CF}
+	EndGlobalSection
+EndGlobal
