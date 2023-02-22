@@ -1,0 +1,20 @@
+import * as React from 'react';
+import { Link } from 'react-router-dom';
+
+export default function Navbar() {
+    return (
+        <div className='fixed z-50 bg-dark-500 w-full top-0 left-0 px-8 py-4 lg:px-20 xl:px-36'>
+            <div className="flex justify-between items-center text-white">
+                <ul className="hidden md:flex">
+                    <li className="p-4"><a href="#home" className="hover:underline">About</a></li>
+                    <li className="p-4"><a href="#first" className="hover:underline">First Gen</a></li>
+                    <li className="p-4"><a href="#second" className="hover:underline">Second Gen</a></li>
+                    <li className="p-4"><a href="#third" className="hover:underline">Third Gen</a></li>
+                    <li className="p-4"><a href="#fourth" className="hover:underline">Fourth Gen</a></li>
+                    <li className="p-4"><a href="#fifth" className="hover:underline">Fifth Gen</a></li>
+                </ul>
+                <Link to="/account" rel='noreferrer' target='_self' className=' bg-teal-500 rounded-full px-4 py-1 border-teal-800 border-4'>Login</Link>
+            </div>
+        </div>
+    )
+}
