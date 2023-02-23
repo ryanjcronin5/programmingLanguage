@@ -6,8 +6,8 @@ import ScrollCard from "./ScrollCard.js"
 export default function FirstGeneration() {
     const settings = {
         dots: false,
-        autoplay: true,
         infinite: true,
+        speed: 400,
         slidesToShow: 2,
         slidesToScroll: 1
     };
