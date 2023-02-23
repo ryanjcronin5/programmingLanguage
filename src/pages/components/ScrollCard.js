@@ -1,4 +1,4 @@
-export default function ScrollCard(props){
+export default function ScrollCard(props) {
     return (
         <div data-aos="fade-up" data-aos-duration="500" data-aos-offset="0" className="w-11/12 ml-6 p-4 text-center justify-center border-2 border-gray-800 bg-dark-200 rounded-md flex flex-col h-72">
             <div className="mt-2">
