@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import profile from '../assets/profile.jpg';
+import profile from '../assets/profile.png';
 
 export default function Hiro() {
     const [loaded, setLoaded] = useState(true);
@@ -17,15 +17,15 @@ export default function Hiro() {
 
                 <div className='md:3/6' data-aos='fade-right' data-aos-duration='1000' data-aos-offset='100'>
                     <div className='flex flex-col w-full mt-8 items-start'>
-                        <h1 className='text-lg text-gray-400'>The Generations of</h1>
-                        <h1 className='text-lg font-bold'>Fighter Aircraft</h1>
-                        <p className='text-md font-light text-gray-300'>An exploration of the ground breacking</p>
-                        <p className='text-md font-light text-gray-300'>aircraft from past and present</p>
+                        <h1 className='text-lg text-gray-400'>Evolution of</h1>
+                        <h1 className='text-lg font-bold'>Programming Languages</h1>
+                        <p className='text-md font-light text-gray-300'></p>
+                        <p className='text-md font-light text-gray-300'></p>
                     </div>
 
                     <ul className='flex mt-2 gap-4 items-center'>
                         <li>
-                            <a href='https://www.militaryfactory.com/searchresults.php?q=generation#gsc.tab=0&gsc.q=generation&gsc.page=1' rel='noreferrer' target='_blank'>MilitaryFactory.com</a>
+                            <a href='' rel='noreferrer' target='_blank'></a>
                         </li>
                         <li>
                             <a href='https://github.com/ryanjcronin5/Jet-Fighter_Generations' rel='noreferrer' target='_blank'>Github</a>

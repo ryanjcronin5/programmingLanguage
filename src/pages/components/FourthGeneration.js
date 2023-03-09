@@ -12,22 +12,114 @@ export default function FourthGeneration() {
         slidesToScroll: 1
     };
 
-    const data = {
-        name: "Convair F-102 Delta Dagger",
-        description: "The Convair F-102 Delta Dagger was an interim delta-wing interceptor design fielded by the USAF until the arrival of the more capable Convair F-106 Delta Dart series.",
-        wingSpan: "11.62m (38.1ft)",
-        wingArea: "m (ft)",
-        length: "20.84m (68.4ft)",
-        height: "6.46m (21.2ft)",
-        date: "Date",
-        developer: "Convair"
-    };
+    const data = [
+        {
+            name: "Boeing (McDonnell Douglas) F-15 Eagle",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Boeing (McDonnell Douglas) F-15E Strike Eagle",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Boeing (McDonnell Douglas) F/A-18 Hornet",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Boeing F-15SE (Silent Eagle)",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Boeing F/A-18 Advanced Super Hornet",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Boeing F/A-18 Super Hornet",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Grumman F-14 Tomcat",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Lockheed Martin F-16 Fighting Falcon",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Lockheed Martin F-16V (Viper)",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        },
+        {
+            name: "Northrop F-20 Tigershark",
+            description: "",
+            wingSpan: "m (ft)",
+            wingArea: "m (ft)",
+            length: "m (ft)",
+            height: "m (ft)",
+            date: "",
+            developer: ""
+        }
+    ];
 
     return (
         <div id="fourth" className="mt-4 text-white">
             <br /><br />
             <h1 className="text-2xl font-bold">Fourth Generation</h1>
-            <p className="font-light text-gray-400">Starting in the 1960s</p>
+            <p className="font-light text-gray-400">American</p>
 
             <div className="mt-4">
                 <Slider {...settings}>

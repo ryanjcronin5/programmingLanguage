@@ -7,11 +7,8 @@ export default function Navbar() {
             <div className="flex justify-between items-center text-white">
                 <ul className="hidden md:flex">
                     <li className="p-4"><a href="#home" className="hover:underline">About</a></li>
-                    <li className="p-4"><a href="#first" className="hover:underline">First Gen</a></li>
-                    <li className="p-4"><a href="#second" className="hover:underline">Second Gen</a></li>
-                    <li className="p-4"><a href="#third" className="hover:underline">Third Gen</a></li>
-                    <li className="p-4"><a href="#fourth" className="hover:underline">Fourth Gen</a></li>
-                    <li className="p-4"><a href="#fifth" className="hover:underline">Fifth Gen</a></li>
+                    <li className="p-4"><a href="#first" className="hover:underline">Current Languages</a></li>
+                    <li className="p-4"><a href="#second" className="hover:underline">Foundational</a></li>
                 </ul>
                 <Link to="/account" rel='noreferrer' target='_self' className=' bg-teal-500 rounded-full px-4 py-1 border-teal-800 border-4'>Login</Link>
             </div>

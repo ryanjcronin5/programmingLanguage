@@ -9,10 +9,10 @@ import Account from './pages/Account';
 
 function App() {
     useEffect(() => {
-        document.title = "Jet Fighter Generations";
+        document.title = "Programming Languages";
         AOS.init()
     }, []);
-    
+
     return (
         <div className='App'>
             <Routes>
@@ -20,7 +20,7 @@ function App() {
                 <Route path='account' element={<Account />} />
             </Routes>
         </div>
-        
+
     );
 }
 export default App;
