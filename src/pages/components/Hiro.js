@@ -25,9 +25,6 @@ export default function Hiro() {
 
                     <ul className='flex mt-2 gap-4 items-center'>
                         <li>
-                            <a href='' rel='noreferrer' target='_blank'></a>
-                        </li>
-                        <li>
                             <a href='https://github.com/ryanjcronin5/Jet-Fighter_Generations' rel='noreferrer' target='_blank'>Github</a>
                         </li>
                     </ul>

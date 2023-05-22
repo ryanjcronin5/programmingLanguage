@@ -34,7 +34,7 @@ export default function Current() {
         {
             name: "C#",
             version: "11.0",
-            description: "C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented and component-oriented programming. C# can be used for mobile or desktop apps, cloub-based services, website and more.",
+            description: "C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented and component-oriented programming. C# can be used for mobile or desktop apps, cloud-based services, website and more.",
             link: "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"
         },
         {

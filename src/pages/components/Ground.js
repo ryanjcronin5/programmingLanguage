@@ -15,7 +15,7 @@ export default function Ground() {
         {
             Title: "Scheme",
             Subtitle: "A dialect of the Lisp programming language family.",
-            Text: "Scheme is a classic programming language, emphasising funtional programming and domain-specific languages. Known for its clean and minimalist design, Scheme is one of the longest lived and best studied dynamic languages."
+            Text: "Scheme is a classic programming language, emphasising functional programming and domain-specific languages. Known for its clean and minimalist design, Scheme is one of the longest lived and best studied dynamic languages."
         },
         {
             Title: "Pascal",
