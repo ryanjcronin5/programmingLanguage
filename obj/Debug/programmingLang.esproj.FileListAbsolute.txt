@@ -1,2 +1,4 @@
 C:\xampp\htdocs\Jet-Fighter_Generations\obj\Debug\programmingLang.esproj.SuggestedBindingRedirects.cache
 C:\xampp\htdocs\Jet-Fighter_Generations\obj\Debug\programmingLang.esproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programmingLanguage\obj\Debug\programmingLang.esproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\programmingLanguage\obj\Debug\programmingLang.esproj.CoreCompileInputs.cache
